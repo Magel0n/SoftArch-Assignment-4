@@ -16,3 +16,9 @@ For significantly more details, please refer to [this video](https://pages.githu
 3. cv2 for access to the camera(s)
 
   And basic libraries: threading and time
+
+## To load all the libraries you may run
+```
+pip install tkinter PIL cv2
+```
+All you need to do now is open main.py and enjoy.
