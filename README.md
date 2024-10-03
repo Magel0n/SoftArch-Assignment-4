@@ -19,6 +19,6 @@ For significantly more details, please refer to [this video](https://pages.githu
 
 ## To load all the libraries you may run
 ```
-pip install tkinter PIL cv2
+pip install pillow opencv-python cv2_enumerate_cameras
 ```
 All you need to do now is open main.py and enjoy.
