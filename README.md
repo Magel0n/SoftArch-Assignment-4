@@ -7,7 +7,7 @@ Team:
 - Morozov Aleksei &nbsp; &nbsp; &nbsp;al.morozov@innopolis.university
 - Suleymanov Timur &nbsp; t.suleymanov@innopolis.university
 
-#### In this project our team has created an application that is capable of reading active and static streams of video format and with pipes-and-filters pattern we change the output to the desired result.
+#### In this project our team has created an application that is capable of reading active and static streams of video format and with &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;pipes-and-filters pattern we change the output to the desired result.
 For significantly more details, please refer to [this video](https://pages.github.com/).
 
 ## Here is the list of the used libraries:
